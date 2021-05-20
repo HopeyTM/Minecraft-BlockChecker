@@ -1,0 +1,13 @@
+name: BlockChecker
+version: 1.0
+main: de.kamikazozi.blockchecker.BlockChecker
+author: KamiKazozi
+
+commands:
+  check:
+    aliases:
+      - c
+      - checkblock
+      - blockcheck
+      - cb
+      - bc
